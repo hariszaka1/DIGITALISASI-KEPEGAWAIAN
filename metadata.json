@@ -1,0 +1,5 @@
+{
+  "name": "DIAN - Digitalisasi Kepegawaian",
+  "description": "A comprehensive web-based employee data management system with separate user and admin interfaces, featuring data input, search, file uploads, and reporting capabilities.",
+  "requestFramePermissions": []
+}
